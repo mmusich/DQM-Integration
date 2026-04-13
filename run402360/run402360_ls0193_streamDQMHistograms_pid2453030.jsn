@@ -1,0 +1,16 @@
+{
+  "data": [
+    "500",
+    "500",
+    "0",
+    "run402360_ls0193_streamDQMHistograms_pid2453030.pb",
+    "1206560",
+    "",
+    "-1",
+    "",
+    "PB",
+    "0"
+  ],
+  "definition": "./run402360/output_2453030.jsd",
+  "source": "lxplus801.cern.ch_2453030"
+}
